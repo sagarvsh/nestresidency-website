@@ -1,0 +1,2 @@
+[05-Nov-2013 22:02:14 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/belave/public_html/mysorehobbies.com/wp-content/plugins/hello.php on line 60
+[12-May-2014 04:02:57 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/belave/public_html/mysorehobbies.com/wp-content/plugins/hello.php on line 60

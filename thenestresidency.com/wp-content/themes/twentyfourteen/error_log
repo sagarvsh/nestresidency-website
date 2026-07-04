@@ -1,0 +1,10 @@
+[11-Oct-2015 12:29:50 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/belave/public_html/thenestresidency.com/wp-content/themes/twentyfourteen/404.php on line 10
+[15-Sep-2020 16:09:16 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/belave/public_html/thenestresidency.com/wp-content/themes/twentyfourteen/404.php on line 10
+[17-Sep-2020 01:34:42 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/belave/public_html/thenestresidency.com/wp-content/themes/twentyfourteen/404.php on line 10
+[28-Feb-2021 21:14:10 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/belave/public_html/thenestresidency.com/wp-content/themes/twentyfourteen/404.php on line 10
+[24-Jul-2022 02:51:41 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/belave/public_html/thenestresidency.com/wp-content/themes/twentyfourteen/404.php on line 10
+[02-Apr-2023 12:27:00 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/belave/public_html/thenestresidency.com/wp-content/themes/twentyfourteen/404.php on line 10
+[20-May-2024 23:46:01 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/belave/public_html/thenestresidency.com/wp-content/themes/twentyfourteen/index.php on line 17
+[21-Jun-2024 16:01:20 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/belave/public_html/thenestresidency.com/wp-content/themes/twentyfourteen/index.php on line 17
+[07-Jul-2024 23:42:37 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/belave/public_html/thenestresidency.com/wp-content/themes/twentyfourteen/index.php on line 17
+[13-Jul-2024 00:28:25 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/belave/public_html/thenestresidency.com/wp-content/themes/twentyfourteen/index.php on line 17
