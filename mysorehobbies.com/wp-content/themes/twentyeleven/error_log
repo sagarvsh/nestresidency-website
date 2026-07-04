@@ -1,6 +1,0 @@
-[28-Oct-2013 19:17:40 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/belave/public_html/mysorehobbies.com/wp-content/themes/twentyeleven/tag.php on line 10
-[01-Nov-2013 01:49:42 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/belave/public_html/mysorehobbies.com/wp-content/themes/twentyeleven/index.php on line 15
-[26-Dec-2013 14:16:20 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/belave/public_html/mysorehobbies.com/wp-content/themes/twentyeleven/404.php on line 10
-[24-May-2014 17:08:49 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/belave/public_html/mysorehobbies.com/wp-content/themes/twentyeleven/index.php on line 15
-[28-May-2014 14:37:20 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/belave/public_html/mysorehobbies.com/wp-content/themes/twentyeleven/tag.php on line 10
-[30-May-2014 08:09:49 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/belave/public_html/mysorehobbies.com/wp-content/themes/twentyeleven/404.php on line 10
